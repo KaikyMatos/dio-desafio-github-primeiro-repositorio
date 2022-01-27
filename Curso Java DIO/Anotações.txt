@@ -1,0 +1,7 @@
+Assuntos:
+
+Algoritmos
+Pseudocódigo
+Matrizes e vetores
+Listas, pilhas e filas
+Árvores, tabelas hash e grafos
